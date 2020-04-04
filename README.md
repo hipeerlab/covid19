@@ -1,3 +1,5 @@
-# COVID-197
+# COVID-19
 
-Host files and information related to COVID19
+Arquivos e modelos para impressão 3D.
+
+Para maiores informações acesse: www.hipeerlab.info
